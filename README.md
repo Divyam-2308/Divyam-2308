@@ -1,129 +1,44 @@
-🚀 Divyam Jain – Projects & Data Overview
-=========================================
+# Hi, I'm Divyam 👋
 
-📌 About Me
------------
+B.Sc. IT student at Gujarat University • M.Sc. IT (expected 2027)
+Focused on Data Science, AI/ML, and Backend Engineering
 
-I’m a developer passionate about **AI-powered automation**, **bug detection & fixing**, and **developer productivity tools**.My projects focus on bridging **AI models** with **real-world developer workflows**, whether in **VS Code**, **Git**, or **cloud environments**.
+- I love building robust backends and collaborating on team projects.
+- Passionate about data‑driven solutions and clean, scalable APIs.
+- When I’m not coding, you’ll find me on the cricket field. 🏏
 
-🛠 Projects
------------
+## 🔧 Tech Stack
+- Languages: `Python`, `JavaScript`
+- Backend & APIs: `FastAPI`, `Firebase`, `REST`
+- Data & Analysis: `NumPy`, `Pandas`, `Excel`, `Tableau`
+- Web: `Full‑stack Web Development` (frontend + backend)
+- Other: `Git`, `Problem Solving`, `Team Collaboration`
 
-### 1\. **BugSpotter** – AI Bug Detection & Auto-Fix
+## 🏆 Certification
+- Cisco — Introduction to Data Science
 
-**Description:**BugSpotter is an **AI-powered VS Code extension** that analyzes Python code for bugs and fixes them automatically using **Google Gemini AI**.It can handle syntax issues, indentation problems, duplicate imports, and more — all without manual intervention.
+## 🚀 Featured Projects (Live)
+- GitMorph — team collaboration  
+  Demo: https://www.gitmorph.tech/ • Repo: https://github.com/vrushal09/GitMorph
+- InkCode — team collaboration  
+  Demo: https://ink-code.vercel.app/home • Repo: https://github.com/vrushal09/InkCode
 
-**Key Features:**
+## 📦 More Projects
+- Bug-Spotter — bug finding/triage project: https://github.com/Divyam-2308/Bug-Spotter
+- Enlightened Hub — (link coming soon; available via portfolio)
 
-*   🔍 **Real-time Bug Analysis** – Detects errors as you code.
-    
-*   ⚡ **AI-Powered Fixes** – Uses Gemini for both single-line and full-file fixes.
-    
-*   ⌨ **Tab-to-Fix** – Press Tab to fix the current line instantly.
-    
-*   📄 **Fix Explanations** – Optional feature to explain what was fixed and why.
-    
-*   📊 **JSON Output** – Integrates analysis results with CLI workflows.
-    
+## 📌 Notable Repositories
+- mycommit — lightweight commit helper: https://github.com/Divyam-2308/mycommit
+- Python-DSA — data structures & algorithms in Python: https://github.com/Divyam-2308/Python-DSA
+- pandas-practice — hands-on Pandas exercises: https://github.com/Divyam-2308/pandas-practice
+- Spendo — expense tracking app: https://github.com/Divyam-2308/Spendo
 
-**Tech Stack:**
+## 🎯 What I’m Looking For
+- Backend‑focused internships and projects
+- DS/ML collaborations and open‑source contributions
 
-*   **Backend:** Python
-    
-*   **AI:** Google Gemini API
-    
-*   **Frontend/Extension:** JavaScript (VS Code API)
-    
-*   **Modules:** analyzer.py, ai\_fixer.py, syntax\_utils.py
-    
+## 🌐 Portfolio
+- https://www.divyamjain.me
 
-**Planned Updates:**
-
-*   Remove legacy/manual fix logic.
-    
-*   Improve AI-based bug detection (Flagship 2).
-    
-*   Enhance CLI integration.
-    
-
-### 2\. **GitMorph** – Automated Git Commits with AI
-
-**Description:**GitMorph is a **React + Firebase** project that automates Git commits whenever a user edits code locally.The tool ensures your repository stays up-to-date **without manual commits** — perfect for busy developers.
-
-**Key Features:**
-
-*   🔐 **Secure Repo Selection** from the dashboard.
-    
-*   🔄 **Automatic Commit & Push** when changes are detected.
-    
-*   🧠 **AI-Generated Commit Messages** based on Git diffs.
-    
-*   ⏳ **Timer-Based Commits** (e.g., every 5 min).
-    
-*   ☁ **Cloud-Enabled Privacy** – No repo data is stored insecurely.
-    
-
-**Tech Stack:**
-
-*   **Frontend:** React.js
-    
-*   **Backend:** Firebase Functions (serverless)
-    
-*   **Database:** Firestore
-    
-*   **Integration:** GitHub API
-    
-
-**Planned Updates:**
-
-*   Local agent for faster file change detection.
-    
-*   Enhanced commit message quality with AI context awareness.
-    
-*   Optional VS Code integration.
-    
-
-📂 Folder & File Notes
-----------------------
-
-*   **BugSpotter**
-    
-    *   src/modules/analyzer/formatter.py – Formats AI output.
-        
-    *   src/modules/utils/syntax\_utils.py – Syntax utilities for AI fixes.
-        
-    *   ai\_fixer.py – Central AI-based fixing logic.
-        
-    *   extension.js – Handles VS Code extension UI & Tab-to-Fix feature.
-        
-*   **GitMorph**
-    
-    *   frontend/ – React dashboard & authentication.
-        
-    *   utils/ – Backend helper scripts for Git commits.
-        
-    *   firebase.json – Cloud function configuration.
-        
-
-📈 Skills Highlighted in Projects
----------------------------------
-
-*   **Python** – AI logic, CLI tooling, backend integration.
-    
-*   **JavaScript** – Extension development, React frontend.
-    
-*   **AI Integration** – Google Gemini API, prompt engineering.
-    
-*   **Cloud Services** – Firebase Functions, Firestore, GitHub API.
-    
-*   **Automation** – Git commit automation, bug fixing workflows.
-    
-
-📫 Contact
-----------
-
-*   **GitHub:** \[Your GitHub Link Here\]
-    
-*   **Email:** \[Your Email Here\]
-    
-*   **LinkedIn:** \[Your LinkedIn Here\]
+## 🤓 Fun Fact
+Did you know? The Python programming language isn't named after the snake, but after the British comedy troupe, Monty Python.
