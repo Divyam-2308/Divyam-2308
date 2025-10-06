@@ -25,10 +25,10 @@ Focused on Data Science, AI/ML, and Backend Engineering
 
 ## 📦 More Projects
 - Bug-Spotter — bug finding/triage project: https://github.com/Divyam-2308/Bug-Spotter
-- expense-tracker-data-visualizer - data analysis & visualtion
+- expense-tracker-data-visualizer - data analysis & visualtion: https://github.com/Divyam-2308/expense-tracker-data-visualizer
   
 ## Upcoming Projects
-- Spendo - Ai-expense tracker (Android App)
+- Spendo - Ai-expense tracker (Android App) : https://github.com/Divyam-2308/Spendo
 
 ## 📌 Notable Repositories
 - mycommit — lightweight commit helper: https://github.com/Divyam-2308/mycommit
