@@ -138,7 +138,6 @@ Real-time cricket auction system with live bidding, player management, and team 
 - 🔨 Building: Sales Forecasting data pipeline (Snowflake + dbt + Prefect)
 - 📚 Practicing: DSA on LeetCode (Striver's A2Z sheet)
 - 🔍 Open to: **Python Developer / AI Engineer / Backend Developer** roles in Ahmedabad or remote
-- 🎯 Long-term goal: Top MNC by 2028
 
 ---
 
@@ -146,8 +145,8 @@ Real-time cricket auction system with live bidding, player management, and team 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-divyamjain.me-blueviolet?style=for-the-badge&logo=vercel)](https://www.divyamjain.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/divyam-jain-2308)
+[![Portfolio](https://img.shields.io/badge/Portfolio-divyamjain.me-blueviolet?style=for-the-badge&logo=vercel)](http://jaindivyam.in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyam2308/)
 [![Instagram](https://img.shields.io/badge/Instagram-divyamjain_.23-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/divyamjain_.23/)
 [![GitHub](https://img.shields.io/badge/GitHub-Divyam--2308-181717?style=for-the-badge&logo=github)](https://github.com/Divyam-2308)
 
